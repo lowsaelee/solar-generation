@@ -2,7 +2,7 @@
 
 Simple data visualization of solar power generation data readings from 8 solar panels. Ran both linear and 2nd degree polynomial regression on data.
 
-2ndDegreePolynomialRegression.png
+![Alt Image text](images/2ndDegreePolynomialRegression.png?raw=true "Polynomial Regression")
 
 ## Data
 Readings are taken daily from the electric meter connected to the solar panels since it was first turned on on September 1, 2015 until current day.
